@@ -1,6 +1,6 @@
 # 🧠 Stroke Prediction App
 
-This mini project uses machine learning to predict the likelihood of a person experiencing a stroke based on basic medical and demographic factors like age, gender, hypertension, heart disease, and lifestyle habits.
+This project uses machine learning to predict the likelihood of a person experiencing a stroke based on basic medical and demographic factors like age, gender, hypertension, heart disease, and lifestyle habits.
 
 Built using **Python**, **Flask**, and **scikit-learn**, the app exposes a REST API that accepts user data and returns stroke risk as a percentage.
 
